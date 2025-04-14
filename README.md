@@ -17,6 +17,8 @@ projeto-mvp/
 ├── api-vendas/             # API principal (clientes)
 │   ├── app.py
 │   ├── requirements.txt
+└── mysql/                  # Dump do banco de dados
+    └── init.sql
 │
 ├── dashboard-frontend/     # Frontend React
 │   ├── src/
@@ -26,8 +28,7 @@ projeto-mvp/
 │
 ├── docker-compose.yml
 ├── README.md
-└── mysql/                  # Dump do banco de dados
-    └── init.sql
+
 ```
 
 ---
